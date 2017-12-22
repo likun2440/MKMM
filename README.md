@@ -1,3 +1,3 @@
 # MKMM
 
-mark test
+mark test git
