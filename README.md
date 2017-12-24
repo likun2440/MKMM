@@ -5,8 +5,9 @@
 mkmm=marking  MM
 
 # 流程  
-1、样本采集 （done）  
-样本地址：链接:https://pan.baidu.com/s/1o7PRSoE  密码:qugk
+1、样本采集 （done）    
+样本地址：链接:https://pan.baidu.com/s/1o7PRSoE  密码:qugk      
+时间：2017-12-24 
 
 
 2、样本标注  
