@@ -5,8 +5,9 @@
 mkmm=marking  MM
 
 # 流程  
-1、样本采集  
-方案：抓取MM照片，清洗(从校花网补充了一些)
+1、样本采集 （done）  
+样本地址：链接:https://pan.baidu.com/s/1o7PRSoE  密码:qugk
+
 
 2、样本标注  
 方案：人肉打分
